@@ -4,7 +4,7 @@
 
 ### What is Python?
 
-Python is an interpreted high level programming language.  It is often classified as a
+Python is an interpreted(解释型) high level programming language.  It is often classified as a
 ["scripting language"](https://en.wikipedia.org/wiki/Scripting_language) and
 is considered similar to languages such as Perl, Tcl, or Ruby.  The syntax
 of Python is loosely inspired by elements of C programming.
@@ -16,6 +16,8 @@ Python was created by Guido van Rossum around 1990 who named it in honor of Mont
 [Python.org](https://www.python.org/) is where you obtain Python.  For the purposes of this course, you
 only need a basic installation.  I recommend installing Python 3.6 or newer. Python 3.6 is used in the notes
 and solutions.
+
+`python --version`查看版本。
 
 ### Why was Python created?
 
