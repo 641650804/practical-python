@@ -183,7 +183,7 @@ False
 >>>
 ```
 
-Sets are also useful for duplicate elimination.
+Sets are also useful for duplicate elimination 消除.
 
 ```python
 names = ['IBM', 'AAPL', 'GOOG', 'IBM', 'GOOG', 'YHOO']

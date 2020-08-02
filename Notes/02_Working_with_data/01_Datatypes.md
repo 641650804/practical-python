@@ -120,9 +120,9 @@ ValueError: too many values to unpack
 
 ### Tuples vs. Lists
 
-Tuples look like read-only lists. However, tuples are most often used
+**Tuples look like read-only lists. However, tuples are most often used
 for a *single item* consisting of multiple parts.  Lists are usually a
-collection of distinct items, usually all of the same type.
+collection of distinct items, usually all of the same type.**
 
 ```python
 record = ('GOOG', 100, 490.1)       # A tuple representing a record in a portfolio
@@ -133,7 +133,7 @@ symbols = [ 'GOOG', 'AAPL', 'IBM' ]  # A List representing three stock symbols
 ### Dictionaries
 
 A dictionary is mapping of keys to values.  It's also sometimes called a hash table or
-associative array.  The keys serve as indices for accessing values.
+**associative array**(关联数组，又叫map,dictionary,table,index等，它以k-v形式存放数据).  The keys serve as indices for accessing values.
 
 ```python
 s = {
